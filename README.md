@@ -1,1 +1,1 @@
-# Amazon-clone_React
+Developed by using React and firebase cloud functions
